@@ -1,4 +1,4 @@
-<h1 align="center" >Ola sou um Dev iniciante! ! </h1>
+<h1 align="center" >Olá sou um Dev iniciante! ! </h1>
 <h2 align="center" >Hi, I'm a junior developer!</h2>
 <br>
 <br>
